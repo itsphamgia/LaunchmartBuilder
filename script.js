@@ -1,8 +1,8 @@
 // import * as THREE from "https://unpkg.com/three@0.142.0/build/three.module.js";
 import * as THREE from "three";
 
-import { OrbitControls } from "https://unpkg.com/three@0.125.2/examples/js/controls/OrbitControls.js";
-import { TransformControls } from "https://unpkg.com/three@0.125.2/examples/js/controls/TransformControls.js";
+import { OrbitControls } from "https://unpkg.com/three@0.142.0/examples/js/controls/OrbitControls.js";
+import { TransformControls } from "https://unpkg.com/three@0.142.0/examples/js/controls/TransformControls.js";
 
 let cameraPersp, cameraOrtho, currentCamera;
 let scene, renderer, control, orbit;
